@@ -1,0 +1,2 @@
+server1.example.de:monusr:monpass
+server2.example.de:monusr:monpass

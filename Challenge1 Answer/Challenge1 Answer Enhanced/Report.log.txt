@@ -1,0 +1,38 @@
+01-09-2019 23:13:02
+Output from Server: server1.example.de
+OK: hdd1:OK
+OK: hdd2:OK
+WARNING: hdd3:WARNING
+OK: hdd4:OK
+CRITICAL: hdd5:CRITICAL
+UNKNOWN - Server:server1
+
+01-09-2019 23:19:46
+Output from Server: server1.example.de
+OK: hdd1:OK
+OK: hdd2:OK
+WARNING: hdd3:WARNING
+OK: hdd4:OK
+CRITICAL: hdd5:CRITICAL
+UNKNOWN - Server:blablah
+
+01-09-2019 23:19:47
+Output from Server: server2.example.de
+hdd_status file was not updated for the last 60 mins please check the cron job updating the hdd_status file [Login to the destination server and run crontab -l
+
+01-09-2019 23:22:06
+Output from Server: server1.example.de
+OK: hdd1:OK
+OK: hdd2:OK
+WARNING: hdd3:WARNING
+OK: hdd4:OK
+CRITICAL: hdd5:CRITICAL
+UNKNOWN - BlaBlah
+
+01-09-2019 23:22:06
+Output from Server: server2.example.de
+OK: hdd1:OK
+OK: hdd2:OK
+WARNING: hdd3:WARNING
+OK: hdd4:OK
+CRITICAL: hdd5:CRITICAL
